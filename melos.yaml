@@ -1,5 +1,5 @@
 name: FirebaseUI
-repository: https://github.com/firebase/FirebaseUI-Flutter
+repository: https://github.com/shared-ideal/FirebaseUI-Flutter
 
 packages:
   - packages/*
